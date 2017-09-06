@@ -67,7 +67,7 @@ py.iplot( fig, validate=False, filename='sea_map_terror' )
 
 
 
-![png](terror_1.png)
+![png](Terrorism in Southeast Asia/terror_1.png)
 
 
 
@@ -265,7 +265,7 @@ py.iplot(fig, filename='marker-bar')
 ```
 
 
-![png](terror_2.png)
+![png](Terrorism in Southeast Asia/terror_2.png)
 
 
 
@@ -303,7 +303,7 @@ fig = dict(data=data, layout=layout)
 py.iplot(fig, filename='d3-cloropleth-map')
 ```
 
-![png](terror_3.png)
+![png](Terrorism in Southeast Asia/terror_3.png)
 
 
 
