@@ -545,7 +545,7 @@ plt.show()
 ```
 
 
-![png](Leaving Employees Prediction/output_19_0.png)
+![png](leaving_employees_prediction/output_19_0.png)
 
 
 From the above heatmap we can understand a lot about how one feature of the data effects another, for instance:
@@ -722,7 +722,7 @@ plt.show()
 ```
 
 
-![png](Leaving Employees Prediction/output_27_0.png)
+![png](leaving_employees_prediction/output_27_0.png)
 
 
 Apparently the employees in the accounting department has the least average satisfaction level, although I'm sure this won't be the case at Deloitte's ;)
@@ -1485,7 +1485,7 @@ show()
 ```
 
 
-![png](Leaving Employees Prediction/output_48_0.png)
+![png](leaving_employees_prediction/output_48_0.png)
 
 
 

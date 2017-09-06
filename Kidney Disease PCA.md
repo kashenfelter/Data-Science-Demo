@@ -940,7 +940,7 @@ plt.show()
 ```
 
 
-![png](Kidney Disease PCA/kidney_disease_pca_1.png)
+![png](kidney_disease_pca/kidney_disease_pca_1.png)
 
 
 As we can see in the above scatter plot the PCA transformation has find a plane in which the chronic kidney disease data can be easily distinguished. PCA has reduced the highly dimensional dataset down to just 2 dimensions, and in doing so, PCA has provided us with a better visualization of the dataset.
